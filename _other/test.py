@@ -1,17 +1,11 @@
-#Write your function here
-def reversed_list(lst1, lst2):
-  print(lst2)
+author = "Shel Silverstein"
+title = "My Beard"
+original_work = "Where the Sidewalk Ends"
+publishing_date = "1974"
 
-  test = [3, 2, 1]
-  test.reverse()
+def poem_description(publishing_date, author, title, original_work):
+  poem_desc = "The poem {} by {} was originally published in {} in {}.".format(publishing_date, author, title, original_work)
+  return poem_desc
 
+print(poem_description(publishing_date, author, title, original_work))
 
-  print(test)
-  # if lst1 == lst2.reverse():
-  #   return True
-  # else:
-  #   return False
-
-#Uncomment the lines below when your function is done
-print(reversed_list([1, 2, 3], [3, 2, 1]))
-#print(reversed_list([1, 5, 3], [3, 2, 1]))
