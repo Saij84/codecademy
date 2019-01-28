@@ -1,11 +1,9 @@
-# Write your add_exclamation function here:
-def add_exclamation(word):
-  if len(word) != 20:
-    return word + "!" * (20-len(word))
-  else:
-    return word
-# Uncomment these function calls to test your function:
-print(add_exclamation("Codecademy"))
-# should print Codecademy!!!!!!!!!!
-print(add_exclamation("Codecademy is the best place to learn"))
-# should print Codecademy is the best place to learn
+# Import Decimal below:
+from decimal import Decimal
+
+# Fix the floating point math below:
+three_decimal_points = 0.2 + 0.69
+print(three_decimal_points)
+
+four_decimal_points = 0.53 * 0.65
+print(four_decimal_points)
