@@ -1,11 +1,11 @@
-author = "Shel Silverstein"
-title = "My Beard"
-original_work = "Where the Sidewalk Ends"
-publishing_date = "1974"
-
-def poem_description(publishing_date, author, title, original_work):
-  poem_desc = "The poem {} by {} was originally published in {} in {}.".format(publishing_date, author, title, original_work)
-  return poem_desc
-
-print(poem_description(publishing_date, author, title, original_work))
-
+# Write your add_exclamation function here:
+def add_exclamation(word):
+  if len(word) != 20:
+    return word + "!" * (20-len(word))
+  else:
+    return word
+# Uncomment these function calls to test your function:
+print(add_exclamation("Codecademy"))
+# should print Codecademy!!!!!!!!!!
+print(add_exclamation("Codecademy is the best place to learn"))
+# should print Codecademy is the best place to learn
