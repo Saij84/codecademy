@@ -1,9 +1,2 @@
-# Import Decimal below:
-from decimal import Decimal
-
-# Fix the floating point math below:
-three_decimal_points = 0.2 + 0.69
-print(three_decimal_points)
-
-four_decimal_points = 0.53 * 0.65
-print(four_decimal_points)
+combo_meals = {1: ["hamburger", "fries"], 2: ["hamburger", "fries", "soda"], 4: ["veggie burger", "salad", "soda"], 6: ["hot dog", "apple slices", "orange juice"]}
+print(combo_meals.get(3, ["hamburger", "fries"]))
