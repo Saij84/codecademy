@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="31c8211e-ebc0-47e1-aa26-0514c8801e67" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/hackin_fender/hacking_fender.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_other/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/_other/test.py" afterDir="false" />
     </list>
@@ -17,29 +16,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/thread_shed/thread_shed.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="855">
+            <state relative-caret-position="969">
               <caret line="57" column="125" selection-start-line="4" selection-end-line="57" selection-end-column="125" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_other/test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="16" selection-end-line="14" selection-end-column="16" />
+            <state relative-caret-position="136">
+              <caret line="8" column="1" selection-end-line="21" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/hackin_fender/hacking_fender.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scrabble/scrabble.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="24" column="37" lean-forward="true" selection-end-line="38" />
-              <folding>
-                <element signature="e#0#10#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="561">
+              <caret line="33" selection-start-line="33" selection-end-line="33" />
             </state>
           </provider>
         </entry>
@@ -69,7 +65,6 @@
         <option value="$PROJECT_DIR$/thread_shed/thread_shed.py" />
         <option value="$PROJECT_DIR$/scrabble/scrabble.py" />
         <option value="$PROJECT_DIR$/_other/test.py" />
-        <option value="$PROJECT_DIR$/hackin_fender/hacking_fender.py" />
       </list>
     </option>
   </component>
@@ -80,10 +75,11 @@
     <option name="FILTER_DEBUG" value="true" />
     <option name="CUSTOM_FILTER" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="1358" />
-    <option name="width" value="1390" />
-    <option name="height" value="1756" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="297" />
+    <option name="y" value="-8" />
+    <option name="width" value="1493" />
+    <option name="height" value="1100" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -93,12 +89,18 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="codecademy" type="b2602c69:ProjectViewProjectNode" />
               <item name="codecademy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="codecademy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="codecademy" type="462c0819:PsiDirectoryNode" />
+              <item name="_other" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="codecademy" type="b2602c69:ProjectViewProjectNode" />
@@ -114,7 +116,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -263,22 +264,22 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="679" y="0" width="695" height="878" extended-state="0" />
+    <frame x="612" y="317" width="1493" height="1100" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.50986344" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.40618557" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32650274" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3019068" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32988507" />
       <window_info anchor="bottom" id="MayaLog" order="8" weight="0.32988507" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.36666667" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.37931034" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="11" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -350,34 +351,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scrabble/scrabble.py">
+    <entry file="file://$PROJECT_DIR$/thread_shed/thread_shed.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="33" selection-start-line="33" selection-end-line="33" />
+        <state relative-caret-position="969">
+          <caret line="57" column="125" selection-start-line="4" selection-end-line="57" selection-end-column="125" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/thread_shed/thread_shed.py">
+    <entry file="file://$PROJECT_DIR$/scrabble/scrabble.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="855">
-          <caret line="57" column="125" selection-start-line="4" selection-end-line="57" selection-end-column="125" />
+        <state relative-caret-position="561">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_other/test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="16" selection-end-line="14" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hackin_fender/hacking_fender.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="37" lean-forward="true" selection-end-line="38" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="136">
+          <caret line="8" column="1" selection-end-line="21" />
         </state>
       </provider>
     </entry>
